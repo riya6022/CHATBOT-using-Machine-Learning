@@ -1,0 +1,36 @@
+ 
+Chatbots can be as simple as rudimentary programs that answer a simple query with a single-line response. It allows humans to interact with digital devices as if they were communicating with a real person.
+
+For example, you’re at your computer researching a product, and a window pops up on your screen asking if you need help. 
+Working of chatbot... Driven by AI, automated rules, natural-language processing (NLP), and machine learning (ML), chatbots process data to deliver responses to requests of all kinds.
+
+
+Chatbots can be as simple as rudimentary programs that answer a simple query with a single-line response.It allows humans to interact with digital devices as if they were communicating with a real person.There are two main types of chatbots  Task-oriented (declarative) chatbots and predictive (conversational) chatbots.
+
+
+
+ Task-oriented chatbots are single-purpose programs that focus on performing one function.  
+ predictive chatbots are often referred to as virtual assistants or digital assistants, and they are much more sophisticated, interactive, and personalized than task-oriented chatbots.
+
+The value chatbots bring to businesses and customers:Chatbots boost operational efficiency and bring cost savings to businesses while offering convenience and added services to internal employees and external customers. They allow companies to easily resolve many types of customer queries and issues while reducing the need for human interaction.
+
+Chatbots created for digitization.Digitization is transforming society into a “mobile-first” population. As messaging applications grow in popularity chatbots are increasingly playing an important role in this mobility-driven transformation. Intelligent conversational chatbots are often interfaces for mobile applications and are changing the way businesses and customers interact.
+
+Chatbots allow businesses to connect with customers in a personal way without the expense of human representatives. 
+
+
+The original chatbot was the phone tree, which led phone-in customers on an often cumbersome and frustrating path of selecting one option after another to wind their way through an automated customer service model. Enhancements in technology and the growing sophistication of AI, ML, and NLP evolved this model into pop-up, live, onscreen chats. And the evolutionary journey has continued.
+
+
+Common chatbot uses : Chatbots are frequently used to improve the IT service management experience,which delves towards self-service and automating processes offered to internal staff. With an intelligent chatbot, common tasks such as password updates, system status, outage alerts, and knowledge management can be readily automated and made available 24/7, while broadening access to commonly used voice and text based conversational interfaces.
+
+On the business side,chatbots are most commonly used in customer contact centers to manage incoming communications and direct customers to the appropriate resource. They’re also frequently used for internal purposes, such as onboarding new employees and helping all employees with routine activities including vacation scheduling, training, ordering computers and business supplies, and other self-service activities that don’t require human intervention.
+
+On the consumer side,chatbots are performing a variety of customer services, ranging from ordering event tickets to booking and checking into hotels to comparing products and services. Chatbots are also commonly used to perform routine customer activities within the banking, retail, and food and beverage sectors.  
+ There are some misconceptions about the term chatbot.Although the terms chatbot and bot are sometimes used interchangeably,a bot is simply an automated program that can be used either for legitimate or malicious purposes. The negative connotation around the word bot is attributable to a history of hackers using automated programs to infiltrate, usurp, and generally cause havoc in the digital ecosystem.
+  chatbots can be as simple as rudimentary programs that answer a simple query with a single-line response. It allows humans to interact with digital devices as if they were communicating with a real person.
+
+There are many widely available tools that allow anyone to create a chatbot.Some of these tools are oriented toward business uses (such as internal operations) and others are oriented toward consumers.
+  
+
+The future of chatbots: Chatbots will  further enhance human capabilities and free humans to be more creative and innovative, spending more of their time on strategic rather than tactical activities.
